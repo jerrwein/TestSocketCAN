@@ -29,6 +29,7 @@
 *.dylib
 
 # Executables
+Query_CAN
 *.exe
 *.out
 *.app
